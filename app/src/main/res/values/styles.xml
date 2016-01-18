@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Widget"/>
+
+    <style name="Widget.TextView.Regular" parent="Widget"/>
+
+    <style name="Widget.TextView.Bold" parent="Widget">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Widget.TextView.Regular.Small" parent="Widget.TextView.Regular">
+        <item name="android:textSize">@dimen/size.small</item>
+    </style>
+
+    <style name="Widget.TextView.Regular.Medium" parent="Widget.TextView.Regular">
+        <item name="android:textSize">@dimen/size.medium</item>
+    </style>
+
+    <style name="Widget.TextView.Regular.Medium.Dark" parent="Widget.TextView.Regular.Medium">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+</resources>

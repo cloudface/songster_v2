@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="space.medium">16dp</dimen>
+    <dimen name="space.small">8dp</dimen>
+
+    <dimen name="size.small">14sp</dimen>
+    <dimen name="size.medium">16sp</dimen>
+</resources>

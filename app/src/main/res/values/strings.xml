@@ -1,0 +1,8 @@
+<resources>
+    <string name="label.app_name">Songster</string>
+    <string name="label.settings">Settings</string>
+    <string name="label.search.noresults">No results matched your search.</string>
+    <string name="label.search.info">Search for songs and bookmark the ones you like.</string>
+
+    <string name="hint.search">Search…</string>
+</resources>
